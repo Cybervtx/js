@@ -1,6 +1,4 @@
 
-
-
 function convertPokemonToLi(pokemon) {
     return `
         <li class="pokemon">
